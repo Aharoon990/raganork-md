@@ -1,6 +1,6 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
+	"name": "ITᔕᗩᕼᗩᖇOOᑎ",
+	"description": "ITᔕᗩᕼᗩᖇOOᑎ",
 	"keywords": [
 		"whatsapp",
 		"bot"
@@ -65,11 +65,11 @@
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
-            "required": false,
+            "required": true,
             "value":"923421468673"
         },
         "ALIVE": {
-            "description": "Alive message {image/link}, {sender} can also be used",
+            "description": "Alive message {https://i.imgur.com/QLVhdJ5.jpg}, {sender} can also be used",
             "required": false,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
