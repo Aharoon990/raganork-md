@@ -1,7 +1,7 @@
 {
-  "name": "raganork-md", 
+  "name": "Aharoon", 
   "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
+  "description": "Aharoon whatsapp bot- Multi device version.",
   "main": "./Raganork/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
